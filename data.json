@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "description": "Walk the dog",
+      "priority": 2,
+      "name": "dog"
+    },
+    {
+      "description": "Prepare dinner",
+      "priority": 1,
+      "name": "Dinner"
+    }
+  ]
+}
